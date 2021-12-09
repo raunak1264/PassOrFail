@@ -23,7 +23,7 @@ public class Main {
         if(percent>40)
             System.out.println("Congratulations you have passed the exam");
         else;
-        System.out.println("You have failed re");
+        System.out.println("You have failed ");
 
 
     }
